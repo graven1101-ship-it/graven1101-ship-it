@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img width="1328" height="2268" alt="image" src="https://github.com/user-attachments/assets/4672f3d9-0a87-4f89-b8d3-8fa17e00b46e" />
+
+<img width="1328" height="2268" alt="image" src="https://github.com/user-attachments/assets/0c26ae1a-8487-40df-9599-704f2a29b83a" />
+
 <!--
 **graven1101-ship-it/graven1101-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
